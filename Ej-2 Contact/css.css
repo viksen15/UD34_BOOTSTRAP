@@ -1,0 +1,28 @@
+.card-body{
+    background-color: rgb(241, 241, 241);
+}
+#todo{
+    margin-right: 20%;
+    margin-left: 20%;
+    margin-top: 8%;
+    margin-bottom: 5%;
+}
+#cabecera{
+    text-align: center;
+    background-color: rgb(241, 241, 241);
+    color:rgb(95, 189, 233);
+}
+#submit{
+    background-color: royalblue;
+    color: white;
+    border: none;
+}
+form{
+    border:none;
+}
+.ico{
+    width: 25px;
+    height: 25px;
+    margin-right: 10px;
+    color: rgb(55, 142, 182);
+}

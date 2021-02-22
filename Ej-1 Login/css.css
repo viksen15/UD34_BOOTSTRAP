@@ -1,0 +1,59 @@
+body{
+    background-image: url(imagenes/fondo.jpg);
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-attachment: fixed;
+    background-size: cover;
+}
+.bi{
+    color: aquamarine;
+    
+    background-color: gray;
+}
+#todo{
+    margin-left: 25%;
+    margin-right: 25%;
+    margin-top: 15%;
+}
+#cabecera{
+    background-color: white;
+    color: gray;
+    padding: 15px;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+}
+form{
+    background-color: rgb(219, 217, 217);
+    padding: 8px;
+}
+#title{
+    text-align: center;
+    color: white;
+}
+#footer{
+    text-align: center;
+    color: white;
+    margin-top: 20px;
+}
+.login{
+    width: 100%;
+    background-color: rgb(64, 201, 182);
+    border:none;
+    color: rgb(68, 68, 68);
+}
+.fa-lock{
+    float: right;
+    color: rgb(219, 217, 217);
+    height: 3em;
+}
+.d-flex{
+    margin-top: 30px;
+}
+.social{
+    background-color: rgb(48, 48, 48); 
+    opacity: 85%;
+    border:none;
+    width: 100%;
+    margin-left: 5px;
+    margin-right: 5px;
+}

@@ -1,0 +1,27 @@
+svg{
+    width: 22px;
+    height: 22px;
+    margin: -5px;
+}
+h1{ color: rgb(28, 102, 241); }
+button.azul{ background-color: blue; }
+button.verde{ background-color: green; }
+button.rojo{ background-color: red; }
+.pagination { float: right; }
+#pag:hover{ 
+    background-color: blue;
+    color: white;
+}
+#buscar{
+    float: right;
+}
+#busca{
+    margin-right: 15px;
+    margin-top: 7px;
+    font-size: 18px;
+}
+.orden{
+    width: 15px;
+    height: 15px;
+    float: right;
+}

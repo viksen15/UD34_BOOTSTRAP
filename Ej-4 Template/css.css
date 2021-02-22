@@ -1,0 +1,30 @@
+li:hover{
+    background-color: rgb(214, 214, 214);
+}
+#buscador{
+    margin-left: 25px;
+}
+#buscar{
+    border-color: gray;
+    color: black;
+}
+#buscar:hover{
+    background-color: rgb(214, 214, 214);
+}
+#cabecera{
+    background-color: rgb(214, 214, 214);
+    padding: 3em;
+}
+h1{
+    font-size: 3em;
+}
+#azul{
+    background-color:rgb(63, 94, 189);
+    border: none;
+}
+#azul:hover{
+    background-color: royalblue;
+}
+.verde{
+    background-color: rgb(69, 168, 69);
+}
